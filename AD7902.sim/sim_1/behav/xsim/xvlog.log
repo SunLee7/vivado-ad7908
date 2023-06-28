@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/AD7902/AD7902.srcs/sources_1/new/ad7902.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ad7902
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/AD7902/AD7902.srcs/sim_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb

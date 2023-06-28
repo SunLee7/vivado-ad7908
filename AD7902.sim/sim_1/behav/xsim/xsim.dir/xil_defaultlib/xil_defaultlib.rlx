@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+F:/AD7902/AD7902.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/AD7902/AD7902.srcs/sim_1/new/top_tb.v,1681393872,verilog,,,,top_tb,,,../../../../AD7902.srcs/sources_1/ip/clk_wiz_0,,,,,
+F:/AD7902/AD7902.srcs/sources_1/new/ad7902.v,1681398828,verilog,,F:/AD7902/AD7902.srcs/sim_1/new/top_tb.v,,ad7902,,,../../../../AD7902.srcs/sources_1/ip/clk_wiz_0,,,,,
